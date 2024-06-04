@@ -7,7 +7,7 @@ namespace HLP2
     
     std::string Scout::WhoAmI() const
     {
-        return "I'm a Scout named ";
+        return "I'm a Scout named "+GetName();
     }
 
     const char *Scout::GetType() const
