@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+
+CS170/polymorphic_player/.vscode/settings.json
