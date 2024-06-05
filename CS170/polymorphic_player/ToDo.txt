@@ -1,0 +1,2 @@
+1. create copy_list function() i think i implement this file 
+2. create free_list function() need to implement this file 
